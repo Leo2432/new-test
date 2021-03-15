@@ -1,4 +1,4 @@
 ++++
 новые буквы 111
 poi
-no-hard-text master
+middle varios
